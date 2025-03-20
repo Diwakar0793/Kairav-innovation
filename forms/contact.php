@@ -36,7 +36,7 @@ try {
     }
 
     // Email recipient
-    $to = "sanjan.m@softcons.net";
+    $to = "diwakar.l@softcons.net";
     
     // Email subject
     $email_subject = "New Contact Form Submission from Kairav Innovative Website";
